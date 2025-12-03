@@ -12,7 +12,7 @@
 ## Author Information
 
 - **Author:** Collin B. George, BS
-- **Affiliation:** Independent Clinical Researcher & Premedical Student
+- **Affiliation:** Independent Clinical Researcher & Medical School Applicant
 - (University of Washington; research not affiliated with or endorsed by UW Medicine)
 - **Initial Publication Date:** November 30, 2024  
 - **Status:** Independent research manuscript, – Active Development
