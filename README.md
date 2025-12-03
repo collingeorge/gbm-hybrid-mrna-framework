@@ -11,9 +11,11 @@
 
 ## Author Information
 
-**Collin B. George, BS**  
-- **Affiliation:** University of Washington Medical Center (Pre-medical Research)  
-- **Contact:** [cbg24@uw.edu](mailto:cbg24@uw.edu)  
+- **Author:** Collin B. George, BS
+- **Affiliation:** Independent Clinical Researcher & Premedical Student
+- (University of Washington; research not affiliated with or endorsed by UW Medicine)
+- **Initial Publication Date:** November 30, 2024  
+- **Status:** Independent research manuscript, – Active Development
 - **ORCID:** [0009-0007-8162-6839](https://orcid.org/0009-0007-8162-6839)
 
 ---
