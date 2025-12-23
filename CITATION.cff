@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+title: "A Translational Framework for a Hybrid mRNA Vaccine Targeting Glioblastoma"
+message: "If you use this repository, please cite it using the information below."
+type: article
+authors:
+  - family-names: George
+    given-names: Collin B.
+    orcid: "https://orcid.org/0009-0007-8162-6839"
+    affiliation: "University of Washington"
+version: "1.0.0"
+date-released: "2025-11-25"
+license: "CC-BY-4.0"
+repository-code: "https://github.com/collingeorge/gbm-hybrid-mrna-framework"
+abstract: >
+  Translational framework for hybrid mRNA vaccine targeting glioblastoma,
+  integrating innate immune priming, personalized neoantigens, and blood-brain
+  barrier penetrating delivery via focused ultrasound. Conceptual vaccine design
+  addressing GBM's unique immunological challenges. Educational pre-medical
+  translational research framework.
+keywords:
+  - glioblastoma
+  - mRNA vaccine
+  - immunotherapy
+  - neoantigens
+  - blood-brain barrier
+  - focused ultrasound
+  - personalized medicine
+  - translational oncology
+  - pre-medical research
