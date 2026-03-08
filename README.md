@@ -124,6 +124,4 @@ Licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](http
 
 © 2026 Collin B. George
 
-As you noted, this version is now stable for public release. Would you like me to help you draft the `CITATION.cff` file mentioned in the contents?
-
 ```
