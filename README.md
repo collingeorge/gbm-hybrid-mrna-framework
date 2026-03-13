@@ -136,9 +136,9 @@ George, C. B. (2026). A translational framework for a hybrid mRNA vaccine target
 
 ## Author
 
-Collin B. George, BS  
-ORCID: 0009-0007-8162-6839  
-GitHub: github.com/collingeorge  
+**Collin B. George, BS**  
+ORCID: [0009-0007-8162-6839](https://orcid.org/0009-0007-8162-6839)  
+GitHub: [github.com/collingeorge](https://github.com/collingeorge)
 
 This is an independent scholarly work. It is not affiliated with, endorsed by, reviewed by, or issued on behalf of the University of Washington, UW Medicine, or any pharmaceutical, biotechnology, healthcare, academic, or regulatory organization. All interpretations, conclusions, and any errors are solely the responsibility of the author.
 
