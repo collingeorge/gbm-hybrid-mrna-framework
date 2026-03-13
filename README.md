@@ -1,43 +1,45 @@
+
 # A Translational Framework for a Hybrid mRNA Vaccine Targeting Glioblastoma
 
 **Integrating Innate Priming, Personalized Neoantigens, and Blood-Brain Barrier Penetrating Delivery**
 
-![Status](https://img.shields.io/badge/Status-Manuscript%20Draft-blue)
-![Project](https://img.shields.io/badge/Project-Independent%20Literature%20Synthesis-blue)
+![Status](https://img.shields.io/badge/Status-Public%20Repository-blue)
+![Project](https://img.shields.io/badge/Project-Independent%20Literature%20Review-blue)
 ![Framework](https://img.shields.io/badge/Framework-Hypothesis--Generating%20Translational%20Review-purple)
 ![Version](https://img.shields.io/badge/Version-1.0.0-green)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 ---
 
-## What This Is
+## Overview
 
-This repository contains an independent literature synthesis examining whether a hybrid mRNA vaccine framework may help conceptually address key barriers in glioblastoma (GBM) immunotherapy. The three barriers examined are:
+This repository contains an independent literature review examining whether a hybrid mRNA vaccine framework may conceptually address selected barriers in glioblastoma (GBM) immunotherapy.
 
-1. **Weak immune activation** in immunologically "cold" tumors  
-2. **Blood-brain barrier (BBB) exclusion** of therapeutic payloads  
-3. **Immunosuppression** within the tumor microenvironment  
+The review discusses innate immune priming, patient-specific neoantigen targeting, blood-brain barrier (BBB)-penetrating delivery strategies, and possible integration with checkpoint inhibition. The discussion is conceptual, literature-based, and intended as scholarly analysis rather than protocol development.
 
-The framework discusses a conceptual combination of innate immune priming, patient-specific neoantigen targeting, BBB-penetrating delivery strategies, and possible integration with checkpoint inhibition. All discussion is conceptual and grounded in published literature; no original experiments were conducted.
+It is an educational and scholarly synthesis of published literature prepared as an independent academic portfolio project. It is provided for scholarly communication only. **The author is a pre-medical applicant and not a licensed physician or other healthcare professional.**
 
 ---
 
-## What This Is Not
+## Scope
 
-This is **not**:
-* A clinical protocol or treatment recommendation
-* A validated therapeutic platform or development-ready design
-* A preclinical or toxicology package
-* An IND submission or regulatory filing
-* An official University of Washington or UW Medicine document
+This review covers published literature relevant to:
 
-Any translation toward clinical use would require independent preclinical validation, formal toxicology work, regulatory review, and institutional sponsorship.
+* Glioblastoma immunotherapy and translational oncology
+* mRNA vaccine platforms
+* Innate immune activation and tumor immunogenicity
+* Personalized neoantigen identification and targeting
+* Blood-brain barrier modulation and delivery strategies
+* Checkpoint inhibition as a possible combinatorial strategy
+* Conceptual translational barriers, feasibility questions, and evidence gaps
+
+The review focuses on scholarly interpretation of published evidence and hypothesis-generating translational reasoning. It does not present a validated therapeutic platform or development-ready product.
 
 ---
 
 ## Repository Contents
 
-```
+```text
 gbm-hybrid-mrna-framework/
 ├── CITATION.cff
 ├── LICENSE
@@ -47,55 +49,84 @@ gbm-hybrid-mrna-framework/
 └── references.bib
 ```
 
+### Manuscript Details
+
+| Field   | Detail                                                                 |
+|---------|------------------------------------------------------------------------|
+| Title   | A Translational Framework for a Hybrid mRNA Vaccine Targeting Glioblastoma: Integrating Innate Priming, Personalized Neoantigens, and Blood-Brain Barrier Penetrating Delivery |
+| Author  | Collin B. George, BS                                                   |
+| Format  | Independent literature review                                          |
+| Framing | Hypothesis-generating translational review                             |
+| Status  | Public Repository                                                      |
+| Version | 1.0.0                                                                  |
+
+No original experiment, preclinical study, clinical trial, or patient intervention was conducted. The discussion is interpretive and literature-based. The repository includes the manuscript PDF, source files, and references.
+
 ---
 
-## Manuscript
+## What This Repository Is Not
 
-**Title:** A Translational Framework for a Hybrid mRNA Vaccine Targeting Glioblastoma: Integrating Innate Priming, Personalized Neoantigens, and Blood-Brain Barrier Penetrating Delivery
+This is not:
 
-**Author:** Collin B. George, BS  
-**Status:** Manuscript draft  
-**Version:** 1.0.0
+* Medical advice or clinical guidance
+* A clinical protocol or treatment recommendation
+* A validated therapeutic platform
+* A preclinical development package
+* A toxicology package
+* An IND submission or regulatory filing
+* An official University of Washington or UW Medicine document
+* A document reviewed, approved, or authorized for institutional implementation
 
-The full manuscript is available as `Hybrid_mRNA_Vaccine_for_Glioblastoma.pdf`. Source files are `main.tex` and `references.bib`.
+Any clinical or translational application of concepts discussed in this review would require independent preclinical validation, formal toxicology assessment, regulatory review, appropriate institutional sponsorship, and expert scientific and clinical oversight.
 
 ---
 
-## Evidence Base
+## Interpretive Caution
 
-This work reviews published literature in:
+The literature discussed in this repository is heterogeneous across tumor biology, immunologic context, platform design, delivery strategy, and translational maturity. This manuscript should not be read as establishing efficacy, safety, feasibility, or developmental readiness for any proposed hybrid mRNA vaccine construct.
 
-* GBM immunotherapy and checkpoint inhibitor trials
-* mRNA vaccine platforms
-* Neoantigen identification and prediction methods
-* Focused ultrasound and BBB modulation strategies
-* Tumor immunology and translational oncology
+The framework is conceptual and hypothesis-generating. It is intended to examine whether published findings from adjacent domains may support a reasoned translational model for further scholarly consideration.
 
-Full references are available in `references.bib`.
+This repository adopts a conservative scholarly framing. The concepts discussed are not presented as clinically validated, experimentally confirmed in this form, or ready for direct development or implementation.
 
 ---
 
 ## Intended Use
 
-This repository supports:
+This repository is appropriate for:
 
 * Scholarly review of GBM immunotherapy barriers
-* Discussion of translational oncology concepts
-* Educational review of mechanism-based therapeutic reasoning
+* Educational discussion of translational oncology concepts
+* Academic portfolio presentation
+* Review of literature-based hypothesis generation and scientific framing
 
-The repository is intended for scholarly communication and educational review only. It is not intended for patient care, clinical decision-making, or protocol development.
+It is not intended for patient care, clinical decision-making, laboratory implementation, product development, or regulatory use.
+
+---
+
+## Evidence Base
+
+This review examines published literature in areas including:
+
+* GBM immunotherapy and checkpoint inhibitor studies
+* mRNA vaccine platform research
+* Neoantigen prediction and personalization methods
+* Focused ultrasound and BBB modulation strategies
+* Tumor immunology and translational oncology
+
+Full references are provided in references.bib.
 
 ---
 
 ## Citation
 
-**Vancouver:**
+**Vancouver**
 
 ```text
 George CB. A translational framework for a hybrid mRNA vaccine targeting glioblastoma: integrating innate priming, personalized neoantigens, and blood-brain barrier penetrating delivery [Internet]. Manuscript draft. 2026. Available from: https://github.com/collingeorge/gbm-hybrid-mrna-framework
 ```
 
-**APA:**
+**APA**
 
 ```text
 George, C. B. (2026). A translational framework for a hybrid mRNA vaccine targeting glioblastoma: Integrating innate priming, personalized neoantigens, and blood-brain barrier penetrating delivery [Manuscript draft]. GitHub. https://github.com/collingeorge/gbm-hybrid-mrna-framework
@@ -105,16 +136,15 @@ George, C. B. (2026). A translational framework for a hybrid mRNA vaccine target
 
 ## Author
 
-**Collin B. George, BS**  
-ORCID: [0009-0007-8162-6839](https://orcid.org/0009-0007-8162-6839)  
-GitHub: [github.com/collingeorge](https://github.com/collingeorge)
+Collin B. George, BS  
+ORCID: 0009-0007-8162-6839  
+GitHub: github.com/collingeorge  
 
-This is an independent scholarly work. It is not affiliated with, endorsed by, or issued on behalf of the University of Washington, UW Medicine, or any pharmaceutical, biotechnology, healthcare, or regulatory organization. All interpretations, conclusions, and any errors are solely the responsibility of the author.
+This is an independent scholarly work. It is not affiliated with, endorsed by, reviewed by, or issued on behalf of the University of Washington, UW Medicine, or any pharmaceutical, biotechnology, healthcare, academic, or regulatory organization. All interpretations, conclusions, and any errors are solely the responsibility of the author.
 
 ---
 
 ## License
 
-Licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
-
+Licensed under Creative Commons Attribution 4.0 International (CC BY 4.0).  
 © 2026 Collin B. George
