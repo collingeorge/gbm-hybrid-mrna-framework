@@ -1,4 +1,3 @@
-
 # A Translational Framework for a Hybrid mRNA Vaccine Targeting Glioblastoma
 
 **Integrating Innate Priming, Personalized Neoantigens, and Blood-Brain Barrier Penetrating Delivery**
@@ -57,7 +56,7 @@ gbm-hybrid-mrna-framework/
 | Author  | Collin B. George, BS                                                   |
 | Format  | Independent literature review                                          |
 | Framing | Hypothesis-generating translational review                             |
-| Status  | Public Repository                                                      |
+| Status  | Manuscript draft                                                       |
 | Version | 1.0.0                                                                  |
 
 No original experiment, preclinical study, clinical trial, or patient intervention was conducted. The discussion is interpretive and literature-based. The repository includes the manuscript PDF, source files, and references.
@@ -114,7 +113,7 @@ This review examines published literature in areas including:
 * Focused ultrasound and BBB modulation strategies
 * Tumor immunology and translational oncology
 
-Full references are provided in references.bib.
+Full references are provided in `references.bib`.
 
 ---
 
@@ -146,5 +145,5 @@ This is an independent scholarly work. It is not affiliated with, endorsed by, r
 
 ## License
 
-Licensed under Creative Commons Attribution 4.0 International (CC BY 4.0).  
+Licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).  
 © 2026 Collin B. George
